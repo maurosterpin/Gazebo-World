@@ -1,3 +1,0 @@
-/home/mauro/gazebows/robot/build/CMakeFiles/rebuild_cache.dir
-/home/mauro/gazebows/robot/build/CMakeFiles/edit_cache.dir
-/home/mauro/gazebows/robot/build/CMakeFiles/hello.dir
